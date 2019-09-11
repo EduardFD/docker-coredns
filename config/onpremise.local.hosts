@@ -1,0 +1,7 @@
+# Hosts file for Domain: onpremise.local
+# Place entries below in standard hosts file format: ipaddress hostname fqdn
+100.200.100.19 vcenter01.onpremise.local
+100.200.100.20 ESXi01.onpremise.local
+100.200.100.21 ESXi02.onpremise.local
+100.200.100.22 ESXi03.onpremise.local
+100.200.100.23 ESXi04.onpremise.local
